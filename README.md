@@ -1,2 +1,2 @@
 # AML2
-Plankton classification
+Using CNRS Plankton images dataset, we tried to predict new classes of planktons unsing CNN architecture
